@@ -24,6 +24,9 @@
 - [Communities](#communities)
 - [Other Curated Lists](#other-curated-lists)
 - [Proof Systems](#proof-systems)
+  - [zkSNARKs](#zksnarks)
+  - [zkSTARKs](#zkstarks)
+  - [Bulletproofs](#bulletproofs)
 - [License](#license)
 
 ## Introductions
@@ -88,9 +91,24 @@
 
 
 ## Proof Systems
+- [Comparison of the most popular zkp systems](https://github.com/matter-labs/awesome-zero-knowledge-proofs#comparison-of-the-most-popular-zkp-systems)
+
+|                                       | SNARKs                     | STARKs                        | Bulletproofs    |
+| ------------------------------------: | -------------------------: | ----------------------------: | --------------: |
+| Algorithmic complexity: prover        | O(N * log(N))              | O(N * poly-log(N))            | O(N * log(N))   |
+| Algorithmic complexity: verifier      | ~O(1)                      | O(poly-log(N))                | O(N)            |
+| Communication complexity (proof size) | ~O(1)                      | O(poly-log(N))                | O(log(N))       |
+| Trusted setup required?               | YES :unamused:             | NO :smile:                    | NO :smile:      |
+- [zk-SNARKs vs. Zk-STARKs vs. BulletProofs](https://ethereum.stackexchange.com/questions/59145/zk-snarks-vs-zk-starks-vs-bulletproofs-updated) ![compare](./images/comparisons.png)
+- [Comparing General Purpose zk-SNARKs](https://medium.com/coinmonks/comparing-general-purpose-zk-snarks-51ce124c60bd) ![compare snarks](./images/compare_snarks2.png)
+- [Comparison of Different zk-SNARKs](https://zhuanlan.zhihu.com/p/40245832) ![compare snarks](./images/compare_snarks.jpeg)
 - [A Cambrian Explosion of Crypto Proofs Eli Ben-Sasson](https://nakamoto.com/cambrian-explosion-of-crypto-proofs/)
 
+### zkSNARKs
 
+### zkSTARKs
+
+### Bulletproofs
 
 ---
 
