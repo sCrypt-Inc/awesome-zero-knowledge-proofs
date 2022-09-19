@@ -88,6 +88,7 @@
 - [zkp.science](https://zkp.science)
 - [Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519)
 - [gakonst/awesome-starknet](https://github.com/gakonst/awesome-starknet)
+- [Zero Knowledge Canon by a16z](https://a16zcrypto.com/zero-knowledge-canon/)
 
 
 ## Proof Systems
