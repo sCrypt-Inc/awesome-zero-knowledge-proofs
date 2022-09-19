@@ -27,6 +27,7 @@
   - [zkSNARKs](#zksnarks)
   - [zkSTARKs](#zkstarks)
   - [Bulletproofs](#bulletproofs)
+- [Applications](#applications)
 - [License](#license)
 
 ## Introductions
@@ -110,6 +111,13 @@
 ### zkSTARKs
 
 ### Bulletproofs
+
+
+
+## Applications
+- [zkDocs: attestation](https://a16zcrypto.com/zkdocs-zero-knowledge-information-sharing/): [Github repo](https://github.com/a16z/zkdocs)
+- [Poker](https://medium.com/coinmonks/zk-poker-a-simple-zk-snark-circuit-8ec8d0c5ee52)
+- [StealthDrop: anonymous airdrop](https://github.com/stealthdrop/stealthdrop): [another one from a16z](https://a16z.com/2022/03/27/crypto-airdrop-privacy-tool-zero-knowledge-proofs/)
 
 ---
 
