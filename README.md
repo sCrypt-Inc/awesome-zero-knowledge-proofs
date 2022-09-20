@@ -97,9 +97,9 @@
 
 |                                       | SNARKs                     | STARKs                        | Bulletproofs    |
 | ------------------------------------: | -------------------------: | ----------------------------: | --------------: |
-| Algorithmic complexity: prover        | O(N * log(N))              | O(N * poly-log(N))            | O(N * log(N))   |
-| Algorithmic complexity: verifier      | ~O(1)                      | O(poly-log(N))                | O(N)            |
-| Communication complexity (proof size) | ~O(1)                      | O(poly-log(N))                | O(log(N))       |
+| proving time       | O(N * log(N))              | O(N * poly-log(N))            | O(N * log(N))   |
+| verifying time      | ~O(1)                      | O(poly-log(N))                | O(N)            |
+| proof size | ~O(1)                      | O(poly-log(N))                | O(log(N))       |
 | Trusted setup required?               | YES :unamused:             | NO :smile:                    | NO :smile:      |
 - [zk-SNARKs vs. Zk-STARKs vs. BulletProofs](https://ethereum.stackexchange.com/questions/59145/zk-snarks-vs-zk-starks-vs-bulletproofs-updated) ![compare](./images/comparisons.png)
 - [Comparing General Purpose zk-SNARKs](https://medium.com/coinmonks/comparing-general-purpose-zk-snarks-51ce124c60bd) ![compare snarks](./images/compare_snarks2.png)
