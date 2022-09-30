@@ -27,6 +27,8 @@
   - [zkSNARKs](#zksnarks)
   - [zkSTARKs](#zkstarks)
   - [Bulletproofs](#bulletproofs)
+- [Trusted Setup](#trusted-setup)
+  - [Subversion Resistance](#subversion-resistance)
 - [Applications](#applications)
 - [License](#license)
 
@@ -112,6 +114,21 @@
 
 ### Bulletproofs
 
+
+## Trusted Setup
+- [The Incredible Machine](https://medium.com/qed-it/the-incredible-machine-4d1270d7363a): ZKP proving Sudoku and physical trusted setup
+- [Diving into the zk-SNARKs Setup Phase](https://medium.com/qed-it/diving-into-the-snarks-setup-phase-b7660242a0d7)
+- [Trusted Setup Workshop by 0xparc](https://learn.0xparc.org/materials/learning-group-1/trusted-setup)
+- [Setup Ceremonies](https://zkproof.org/2021/06/30/setup-ceremonies/)
+- [On-Chain Trusted Setup Ceremony](https://a16zcrypto.com/on-chain-trusted-setup-ceremony/)
+- [How do trusted setups work?](https://vitalik.ca/general/2022/03/14/trustedsetup.html)
+- [Announcing the Perpetual Powers of Tau Ceremony to benefit all zk-SNARK projects](https://medium.com/coinmonks/announcing-the-perpetual-powers-of-tau-ceremony-to-benefit-all-zk-snark-projects-c3da86af8377)
+- [Trusted setup ceremonies explored](https://www.zeroknowledge.fm/133)
+
+### Subversion Resistance
+- [A Subversion-Resistant SNARK](https://eprint.iacr.org/2017/599)
+- [Zero knowledge, subversion resistance, and concrete attacks | Steven Goldfeder | RWC 2018](https://youtu.be/DP8xSEM9bd8)
+- [Zero-Knowledge Contingent Payments Revisited](https://eprint.iacr.org/2017/566)
 
 
 ## Applications
