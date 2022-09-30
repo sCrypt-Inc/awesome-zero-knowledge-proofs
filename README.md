@@ -20,6 +20,8 @@
 - [Tutorials](#tutorials)
 - [Programming Languages](#programming-languages)
 - [Tools](#tools)
+  - [ZoKrates: a toolbox for zkSNARKs](#zokrates-a-toolbox-for-zksnarks)
+  - [Snarkjs: zkSNARK implementation in JavaScript & WASM](#snarkjs-zksnark-implementation-in-javascript--wasm)
 - [Books](#books)
 - [Communities](#communities)
 - [Other Curated Lists](#other-curated-lists)
@@ -67,12 +69,16 @@
 
 
 ## Tools
-- ZoKrates: a toolbox for zkSNARKs
-  - [Bitcoin](https://github.com/sCrypt-Inc/zokrates)
-  - [Ethereum](https://zokrates.github.io/)
-- Snarkjs: zkSNARK implementation in JavaScript & WASM
-  - [Bitcoin](https://github.com/sCrypt-Inc/snarkjs)
-  - [Ethereum](https://github.com/iden3/snarkjs)
+### ZoKrates: a toolbox for zkSNARKs
+Both on [Bitcoin](https://github.com/sCrypt-Inc/zokrates) and [Ethereum](https://zokrates.github.io/)
+- [Zero Knowledge Proofs Workshop - Zokrates Tutorial](http://extropy.foundation/workshops/zkp/zokrates.html)
+- [Zokrates Hello World Walkthrough](https://hackmd.io/@adietrichs/HkH0OduZw)
+- [Practical ZK-SNARKs for Ethereum](https://coders-errand.com/practical-zk-snarks-for-ethereum/)
+
+### Snarkjs: zkSNARK implementation in JavaScript & WASM
+Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://github.com/iden3/snarkjs)
+- [Circom Workshop 1 by 0xparc](https://learn.0xparc.org/materials/learning-group-1/circom-1)
+- [Circom Workshop 2 by 0xparc](https://learn.0xparc.org/materials/learning-group-1/circom-2)
 
 
 ## Books
