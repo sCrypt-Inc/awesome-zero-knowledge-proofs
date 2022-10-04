@@ -111,6 +111,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 | verifying time      | ~O(1)                      | O(poly-log(N))                | O(N)            |
 | proof size | ~O(1)                      | O(poly-log(N))                | O(log(N))       |
 | Trusted setup required?               | YES :unamused:             | NO :smile:                    | NO :smile:      |
+- [Proving system comparison](https://youtu.be/LBTrX0Ukdvs?t=309) ![compare snarks](./images/compare_snarks3.png)
 - [zk-SNARKs vs. Zk-STARKs vs. BulletProofs](https://ethereum.stackexchange.com/questions/59145/zk-snarks-vs-zk-starks-vs-bulletproofs-updated) ![compare](./images/comparisons.png)
 - [Comparing General Purpose zk-SNARKs](https://medium.com/coinmonks/comparing-general-purpose-zk-snarks-51ce124c60bd) ![compare snarks](./images/compare_snarks2.png)
 - [Comparison of Different zk-SNARKs](https://zhuanlan.zhihu.com/p/40245832) ![compare snarks](./images/compare_snarks.jpeg)
