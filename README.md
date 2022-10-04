@@ -27,6 +27,7 @@
 - [Other Curated Lists](#other-curated-lists)
 - [Proof Systems](#proof-systems)
   - [zkSNARKs](#zksnarks)
+    - [PLONK](#plonk)
   - [zkSTARKs](#zkstarks)
   - [Bulletproofs](#bulletproofs)
 - [Trusted Setup](#trusted-setup)
@@ -118,6 +119,11 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [A Cambrian Explosion of Crypto Proofs Eli Ben-Sasson](https://nakamoto.com/cambrian-explosion-of-crypto-proofs/)
 
 ### zkSNARKs
+
+
+#### PLONK
+- [Awesome PLONK](https://github.com/fluidex/awesome-plonk): a curated list of awesome things related to Plonk
+
 
 ### zkSTARKs
 
