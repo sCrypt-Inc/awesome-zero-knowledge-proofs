@@ -130,6 +130,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [Understanding PLONK by Vitalik](https://www.vitalik.ca/general/2019/09/22/plonk.html)
 - [Understanding PLONK by David Wong](https://www.cryptologie.net/article/527/understanding-plonk/)
 - [A Python tutorial of the paper PLONK](https://github.com/barryWhiteHat/plonk_tutorial)
+- [Another good tutorial on PLONK in CN](https://www.jianshu.com/p/889b7e09ae9a)
 
 ##### Videos
 - [ZK Study Club - Plonk with Zac Williamson](https://youtu.be/NqrVcDuQ8hM)
