@@ -28,6 +28,7 @@
 - [Proof Systems](#proof-systems)
   - [zkSNARKs](#zksnarks)
     - [PLONK](#plonk)
+      - [Videos](#videos)
   - [zkSTARKs](#zkstarks)
   - [Bulletproofs](#bulletproofs)
 - [Trusted Setup](#trusted-setup)
@@ -123,6 +124,18 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 
 #### PLONK
 - [Awesome PLONK](https://github.com/fluidex/awesome-plonk): a curated list of awesome things related to Plonk
+- How PLONK works: [Part 1](https://xiaohuiliu.medium.com/how-plonk-works-part-1-bc8050f4805e) and Part 2
+- [PLONK by Hand](https://research.metastate.dev/plonk-by-hand-part-1/): 3 parts from MetaState
+- [A good tutorial on PLONK in CN](https://blog.csdn.net/AdijeShen/article/details/123332665)
+- [Understanding PLONK by Vitalik](https://www.vitalik.ca/general/2019/09/22/plonk.html)
+- [Understanding PLONK by David Wong](https://www.cryptologie.net/article/527/understanding-plonk/)
+- [A Python tutorial of the paper PLONK](https://github.com/barryWhiteHat/plonk_tutorial)
+
+##### Videos
+- [ZK Study Club - Plonk with Zac Williamson](https://youtu.be/NqrVcDuQ8hM)
+- [How PLONK works by David Wong](https://www.youtube.com/playlist?list=PLBJMt6zV1c7Gh9Utg-Vng2V6EYVidTFCC): a 12-part series
+- [PLONK: Privacy in a World of Universal SNARKs - Zac Williamson](https://youtu.be/V7Hmtan98r8)
+- [PLONK: Ariel Gabizon (Protocol Labs)](https://youtu.be/dHo56MhQlHk)
 
 
 ### zkSTARKs
