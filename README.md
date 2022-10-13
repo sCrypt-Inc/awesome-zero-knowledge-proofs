@@ -124,7 +124,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 
 #### PLONK
 - [Awesome PLONK](https://github.com/fluidex/awesome-plonk): a curated list of awesome things related to Plonk
-- How PLONK works: [Part 1](https://xiaohuiliu.medium.com/how-plonk-works-part-1-bc8050f4805e) and Part 2
+- How PLONK works by sCrypt: [Part 1](https://xiaohuiliu.medium.com/how-plonk-works-part-1-bc8050f4805e) and [Part 2](https://xiaohuiliu.medium.com/how-plonk-works-part-2-1072dcd7634a)
 - [PLONK by Hand](https://research.metastate.dev/plonk-by-hand-part-1/): 3 parts from MetaState
 - [A good tutorial on PLONK in CN](https://blog.csdn.net/AdijeShen/article/details/123332665)
 - [Understanding PLONK by Vitalik](https://www.vitalik.ca/general/2019/09/22/plonk.html)
