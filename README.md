@@ -34,6 +34,17 @@
 - [Trusted Setup](#trusted-setup)
   - [Subversion Resistance](#subversion-resistance)
 - [Applications](#applications)
+  - [Blockchains](#blockchains)
+  - [Games](#games)
+  - [Machine learning and AI](#machine-learning-and-ai)
+  - [Auctions](#auctions)
+  - [Marketplace](#marketplace)
+  - [Mixer](#mixer)
+  - [Rollup](#rollup)
+  - [Tokens / NFT](#tokens--nft)
+  - [Voting / Participation](#voting--participation)
+  - [Attestation](#attestation)
+  - [Other app directories](#other-app-directories)
 - [License](#license)
 
 ## Introductions
@@ -161,9 +172,76 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 
 
 ## Applications
-- [zkDocs: attestation](https://a16zcrypto.com/zkdocs-zero-knowledge-information-sharing/): [Github repo](https://github.com/a16z/zkdocs)
-- [Poker](https://medium.com/coinmonks/zk-poker-a-simple-zk-snark-circuit-8ec8d0c5ee52)
-- [StealthDrop: anonymous airdrop](https://github.com/stealthdrop/stealthdrop): [another one from a16z](https://a16z.com/2022/03/27/crypto-airdrop-privacy-tool-zero-knowledge-proofs/)
+### Blockchains
+- [Zcash: Privacy-Protecting Digital Currency](https://z.cash) (SNARKs)
+- [Monero: Private Digital Currency](https://www.getmonero.org) (Bulletproofs)
+- [Mina Protocol: A Constant-Size Blockchain](https://minaprotocol.com/) (recursive SNARKs)
+
+### Games
+- [Incomplete Information Games on Bitcoin](https://xiaohuiliu.medium.com/incomplete-information-games-on-bitcoin-d79408050882)
+- [Dark Forest: zkSNARK space warfare strategy game](https://zkga.me/)
+- [Battleship](https://xiaohuiliu.medium.com/introducing-zkbattleship-the-worlds-first-interactive-zero-knowledge-proof-tutorial-95d1fc5f65cb): the World’s First Interactive Zero-Knowledge Proof Tutorial
+- [Zordle: ZK Wordle](https://github.com/nalinbhardwaj/zordle): the first e2e web app built using Halo 2 ZK proofs
+- [Mastermind](https://weijiek.medium.com/how-i-learned-zk-snarks-from-scratch-177a01c5514e) and its [repo](https://github.com/weijiekoh/zkmm)
+- [exgrasia](https://github.com/nalinbhardwaj/exgrasia): On-chain RPG-style sandbox game
+- [Sudoku](https://github.com/nalinbhardwaj/snarky-sudoku)
+- [Isaac: a physics-powered onchain reality on Starknet](https://topology.gg/) and their [blog](https://www.guiltygyoza.xyz/2022/05/topology-isaac-defcon)
+- [Crypto Maze: action-packed MMO](https://www.cryptomaze.app/)
+- [Mental Poker](https://medium.com/coinmonks/zk-poker-a-simple-zk-snark-circuit-8ec8d0c5ee52): [explantion](https://blog.cryptographyengineering.com/2012/04/02/poker-is-hard-especially-for/) and [sample code](https://github.com/glamperd/snark-example/tree/master/poker)
+- [ETHdos Numbers](https://ethdos.xyz): measure your degrees of seperation from Vitalik using recursive SNARKs
+- [Cachebox](https://github.com/qcomps/cachebox): an escape game built on the MINA blockchain
+- [Lottery](https://killari.medium.com/zero-knowledge-lottery-437e456dc3f2)
+- [chess-cairo - A Cairo contract to play chess in Starknet](https://github.com/greenlucid/chess-cairo)
+- [GoL2 - Cellular automata on replicated state machine](https://github.com/perama-v/GoL2)
+- [fully on-chain jrpg/autochess](https://twitter.com/l_udens/status/1425871974060994563)
+
+### Machine learning and AI
+- [MNIST for recognizing handwritten digits on Bitcoin](https://xiaohuiliu.medium.com/zero-knowledge-private-machine-learning-on-bitcoin-a5bacc6508b1)
+- [zk-MNIST: web frontend app + Jupyter notebook with ML model generation on Ethereum](https://github.com/0xZKML/zk-mnist) and their [demo](https://zkmnist.netlify.app/)
+- [zkCNN: GKR-based zero-knowledge proof protocol for CNN model inference](https://github.com/TAMUCrypto/zkCNN) and their [paper](https://eprint.iacr.org/2021/673.pdf)
+- [Object detection and classification on an image](https://github.com/Makalfo/snapp-darknet)
+
+
+### Auctions
+- [Blind auction using zero knowledge](https://github.com/heivenn/zk-blind-auction): [discussion](https://talk.harmony.one/t/zero-knowledge-blind-auctions/18600)
+- [Publicly Verifiable Sealed-Bid Auctions with a Trustless Auctioneer](https://medium.com/@vaheandonians/publicly-verifiable-sealed-bid-auctions-with-a-trustless-auctioneer-4aa50197f00c)
+
+
+### Marketplace
+- [Nightmarket: a Dark Forest plugin that allows players to buy and sell planet coordinates](https://blog.zkga.me/nightmarket): [a blog post](https://blog.zkga.me/nightmarket)
+- [Modulo Zero: on-chain solution for private data exchange](https://modulozero.xyz/) and their [Repo](https://github.com/nulven/EthDataMarketplace)
+- [zkPoD: A Practical Decentralized System for Data Exchange](https://github.com/sec-bit/zkPoD-node)
+
+### Mixer
+- [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
+
+### Rollup
+- [ZK-Rollups on Bitcoin](https://medium.com/coinmonks/zk-rollups-on-bitcoin-ce35869b940d): Way More Scalable than on Ethereum
+
+### Tokens / NFT
+- [Scalable Peer to Peer Tokens on Bitcoin](https://xiaohuiliu.medium.com/scalable-peer-to-peer-tokens-on-bitcoin-3fb2b2c4da25): Solve the Back-to-Genesis Problem using recursive SNARKs
+- [StealthDrop: Anonymous Airdrops using ZK proofs](https://github.com/nalinbhardwaj/stealthdrop)
+- [ZKP Private Airdrop](https://github.com/a16z/zkp-merkle-airdrop-contracts) and their [Zk Merkle Airdrop Library](https://github.com/a16z/zkp-merkle-airdrop-lib)
+- [zk-NftMint: Mint an NFT if you know a secret](https://github.com/weijiekoh/zknftmint) and their [contract](https://goerli.etherscan.io/address/0xc4490d6407f81378c8d3620eA11092B2FC429Df2)
+
+### Voting / Participation
+- [Zero Knowledge Message Board by nulven, yush\_g](https://github.com/nulven/zk-message-board) and their [article](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY)
+- [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
+- [OVOTE: Offchain Voting with Onchain Trustless Execution](https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603) and their [document](https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603)
+
+### Attestation
+- [zkPhoto: Private Authentic Photo Sharing](https://talk.harmony.one/t/zkphoto-private-authentic-photo-sharing/14375)
+- [Using ZK Proofs to Fight Disinformation](https://medium.com/@boneh/using-zk-proofs-to-fight-disinformation-17e7d57fe52f): proofs of permissible photo edits
+- [zkDocs: Document Management](https://a16zcrypto.com/zkdocs-zero-knowledge-information-sharing/): [Github repo](https://github.com/a16z/zkdocs)
+
+### Other app directories
+- [zkDAO category from Harmony](https://talk.harmony.one/c/governance/zkdao/84)
+- [Cairo goldmine](https://github.com/beautyisourbusiness/cairo-goldmine#gaming): A comprehensive, annotated list repos in STARKNET
+- [ventali/awesome-zk](https://github.com/ventali/awesome-zk#zk-applications)
+- [Six Moonshot ZK Applications](https://gubsheep.substack.com/p/six-moonshot-zk-applications)
+- [Final Projects by ZKU Graduates](https://zku.one/final-project-submissions)
+- [zkApps on Mina](https://zkappsformina.com/)
+- [10 zkApps Use Cases on Mina Protocol](https://blog.o1labs.org/10-snapps-use-cases-on-mina-83e646010e52)
 
 ---
 
