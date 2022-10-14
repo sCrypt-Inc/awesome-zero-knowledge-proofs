@@ -39,10 +39,12 @@
   - [Machine learning and AI](#machine-learning-and-ai)
   - [Auctions](#auctions)
   - [Marketplace](#marketplace)
+  - [Social](#social)
   - [Mixer](#mixer)
   - [Rollup](#rollup)
   - [Tokens / NFT](#tokens--nft)
   - [Voting / Participation](#voting--participation)
+  - [Identity](#identity)
   - [Attestation](#attestation)
   - [Other app directories](#other-app-directories)
 - [License](#license)
@@ -188,12 +190,11 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [Isaac: a physics-powered onchain reality on Starknet](https://topology.gg/) and their [blog](https://www.guiltygyoza.xyz/2022/05/topology-isaac-defcon)
 - [Crypto Maze: action-packed MMO](https://www.cryptomaze.app/)
 - [Mental Poker](https://medium.com/coinmonks/zk-poker-a-simple-zk-snark-circuit-8ec8d0c5ee52): [explantion](https://blog.cryptographyengineering.com/2012/04/02/poker-is-hard-especially-for/) and [sample code](https://github.com/glamperd/snark-example/tree/master/poker)
-- [ETHdos Numbers](https://ethdos.xyz): measure your degrees of seperation from Vitalik using recursive SNARKs
 - [Cachebox](https://github.com/qcomps/cachebox): an escape game built on the MINA blockchain
 - [Lottery](https://killari.medium.com/zero-knowledge-lottery-437e456dc3f2)
 - [chess-cairo - A Cairo contract to play chess in Starknet](https://github.com/greenlucid/chess-cairo)
 - [GoL2 - Cellular automata on replicated state machine](https://github.com/perama-v/GoL2)
-- [fully on-chain jrpg/autochess](https://twitter.com/l_udens/status/1425871974060994563)
+- [zkAutoChess: An On-chain Auto Chess Battle Game](https://talk.harmony.one/t/zkautochess-an-on-chain-auto-chess-battle-game/18375)
 
 ### Machine learning and AI
 - [MNIST for recognizing handwritten digits on Bitcoin](https://xiaohuiliu.medium.com/zero-knowledge-private-machine-learning-on-bitcoin-a5bacc6508b1)
@@ -212,6 +213,10 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [Modulo Zero: on-chain solution for private data exchange](https://modulozero.xyz/) and their [Repo](https://github.com/nulven/EthDataMarketplace)
 - [zkPoD: A Practical Decentralized System for Data Exchange](https://github.com/sec-bit/zkPoD-node)
 
+### Social
+- [Zkitter: Anonymous Social Network](https://hackmd.io/@catsnackattack/Bkov8Jz-s#zkitterzkchat)
+- [ETHdos Numbers](https://ethdos.xyz): measure your degrees of seperation from Vitalik using recursive SNARKs
+
 ### Mixer
 - [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
 
@@ -227,12 +232,23 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 ### Voting / Participation
 - [Zero Knowledge Message Board by nulven, yush\_g](https://github.com/nulven/zk-message-board) and their [article](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY)
 - [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
+- [ZKU-Vote: a platform that allows anonymous voting](https://talk.harmony.one/t/zku-vote-anonymous-voting-within-dao/18423)
 - [OVOTE: Offchain Voting with Onchain Trustless Execution](https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603) and their [document](https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603)
 
+### Identity
+- ZK Identity: Why and How by 0xPARC [Part 1](https://0xparc.org/blog/zk-id-1) and [Part 2](https://0xparc.org/blog/zk-id-2)
+- [ZK-Identity (Semaphore): Private Identity Claim System by minting a NFT](https://talk.harmony.one/t/zk-identity-semaphore-private-identity-claim-system-by-minting-a-nft/18789)
+- [Interep: An on-ramp for reputation](https://mirror.xyz/privacy-scaling-explorations.eth/w7zCHj0xoxIfhoJIxI-ZeYIXwvNatP1t4w0TsqSIBe4): a bridge for moving reputation from centralized into decentralized systems
+- [Aletheia: an anonymous & on-chain reputation based login system for websites](https://talk.harmony.one/t/aletheia-reputation-based-anonymous-login-system/18469)
+- [Continuum: background checker](https://talk.harmony.one/t/continuum-zk-background-checker/19627)
+
+
 ### Attestation
+- [zkAttestor: Block and State Attestations on Ethereum](https://youtu.be/2-yYtEJdrFY): [repo](https://github.com/yi-sun/zk-attestor)
 - [zkPhoto: Private Authentic Photo Sharing](https://talk.harmony.one/t/zkphoto-private-authentic-photo-sharing/14375)
 - [Using ZK Proofs to Fight Disinformation](https://medium.com/@boneh/using-zk-proofs-to-fight-disinformation-17e7d57fe52f): proofs of permissible photo edits
 - [zkDocs: Document Management](https://a16zcrypto.com/zkdocs-zero-knowledge-information-sharing/): [Github repo](https://github.com/a16z/zkdocs)
+- [UniRep (Universal Reputation): a private and non-repudiable reputation system](https://docs.unirep.io/)
 
 ### Other app directories
 - [zkDAO category from Harmony](https://talk.harmony.one/c/governance/zkdao/84)
