@@ -190,7 +190,10 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [Sudoku](https://github.com/nalinbhardwaj/snarky-sudoku)
 - [Isaac: a physics-powered onchain reality on Starknet](https://topology.gg/) and their [blog](https://www.guiltygyoza.xyz/2022/05/topology-isaac-defcon)
 - [Crypto Maze: action-packed MMO](https://www.cryptomaze.app/)
-- [Mental Poker](https://medium.com/coinmonks/zk-poker-a-simple-zk-snark-circuit-8ec8d0c5ee52): [explantion](https://blog.cryptographyengineering.com/2012/04/02/poker-is-hard-especially-for/) and [sample code](https://github.com/glamperd/snark-example/tree/master/poker)
+- [Mental Poker](https://blog.cryptographyengineering.com/2012/04/02/poker-is-hard-especially-for/)  
+  - Mental Poker in the Age of SNARKs: [part 1](https://geometry.xyz/notebook/mental-poker-in-the-age-of-snarks-part-1 ) and [part 2](https://geometry.xyz/notebook/mental-poker-in-the-age-of-snarks-part-2)
+  - [ZK Poker](https://medium.com/coinmonks/zk-poker-a-simple-zk-snark-circuit-8ec8d0c5ee52)
+  - [sample code in Circom](https://github.com/glamperd/snark-example/tree/master/poker)
 - [Cachebox](https://github.com/qcomps/cachebox): an escape game built on the MINA blockchain
 - [Lottery](https://killari.medium.com/zero-knowledge-lottery-437e456dc3f2)
 - [chess-cairo - A Cairo contract to play chess in Starknet](https://github.com/greenlucid/chess-cairo)
