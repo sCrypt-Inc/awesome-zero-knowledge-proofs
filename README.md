@@ -100,7 +100,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 
 - [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) (Justin Thaler, 2022)
 - [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/book.pdf) (Dan Boneh and Victor Shoup, 2020)
-
+- [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual): minimal experience in cryptography required
 
 ## Communities
 - [Zero-knowledge podcast](https://www.zeroknowledge.fm): #1 podcast for ZK
