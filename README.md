@@ -92,8 +92,8 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/zokrates) and [Ethereum](https:/
 
 ### Snarkjs: zkSNARK implementation in JavaScript & WASM
 Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://github.com/iden3/snarkjs)
-- [Circom Workshop 1 by 0xparc](https://learn.0xparc.org/materials/learning-group-1/circom-1)
-- [Circom Workshop 2 by 0xparc](https://learn.0xparc.org/materials/learning-group-1/circom-2)
+- [Circom Workshop 1 by 0xparc](https://learn.0xparc.org/materials/circom/learning-group-1/circom-1)
+- [Circom Workshop 2 by 0xparc](https://learn.0xparc.org/materials/circom/learning-group-1/circom-2)
 
 
 ## Books
