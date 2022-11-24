@@ -213,6 +213,10 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 
 
 ### Marketplace
+- [Sudoku Bounty: privately trade solution to a Sudoku puzzle on-chain](https://github.com/sCrypt-Inc/sudoku-bounty)
+- [RSA Bounty: buy prime factorization of a number on-chain without revealing it to the public](https://github.com/sCrypt-Inc/scrypt-rsa-bounty)
+- [Hash Collision Bounty: put a private bounty for finding a hash collision on-chain](https://github.com/sCrypt-Inc/scrypt-hash-collision-bounty)
+- [Decryption Key Bounty: privately trade decryption key for some arbitrary cyphertext](https://github.com/sCrypt-Inc/scrypt-decryption-key-bounty)
 - [Nightmarket: a Dark Forest plugin that allows players to buy and sell planet coordinates](https://blog.zkga.me/nightmarket): [a blog post](https://blog.zkga.me/nightmarket)
 - [Modulo Zero: on-chain solution for private data exchange](https://modulozero.xyz/) and their [Repo](https://github.com/nulven/EthDataMarketplace)
 - [zkPoD: A Practical Decentralized System for Data Exchange](https://github.com/sec-bit/zkPoD-node)
