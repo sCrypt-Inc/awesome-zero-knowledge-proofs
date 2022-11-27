@@ -213,6 +213,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 
 
 ### Marketplace
+- [A collection of solutions leveraging the power of ZK information bounties](https://github.com/sCrypt-Inc/zk-bounties)
 - [Nightmarket: a Dark Forest plugin that allows players to buy and sell planet coordinates](https://blog.zkga.me/nightmarket): [a blog post](https://blog.zkga.me/nightmarket)
 - [Modulo Zero: on-chain solution for private data exchange](https://modulozero.xyz/) and their [Repo](https://github.com/nulven/EthDataMarketplace)
 - [zkPoD: A Practical Decentralized System for Data Exchange](https://github.com/sec-bit/zkPoD-node)
