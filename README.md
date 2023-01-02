@@ -21,7 +21,7 @@
 - [Programming Languages](#programming-languages)
 - [Tools](#tools)
   - [ZoKrates: a toolbox for zkSNARKs](#zokrates-a-toolbox-for-zksnarks)
-  - [Snarkjs: zkSNARK implementation in JavaScript & WASM](#snarkjs-zksnark-implementation-in-javascript--wasm)
+  - [Snarkjs: zkSNARK implementation in JavaScript \& WASM](#snarkjs-zksnark-implementation-in-javascript--wasm)
 - [Books](#books)
 - [Communities](#communities)
 - [Other Curated Lists](#other-curated-lists)
@@ -115,7 +115,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519)
 - [gakonst/awesome-starknet](https://github.com/gakonst/awesome-starknet)
 - [Zero Knowledge Canon by a16z](https://a16zcrypto.com/zero-knowledge-canon/)
-
+- [ZKP Knowledge Base by Delendum Research](https://kb.delendum.xyz/)
 
 ## Proof Systems
 - [Comparison of the most popular zkp systems](https://github.com/matter-labs/awesome-zero-knowledge-proofs#comparison-of-the-most-popular-zkp-systems)
