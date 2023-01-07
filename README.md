@@ -188,6 +188,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [Mastermind](https://weijiek.medium.com/how-i-learned-zk-snarks-from-scratch-177a01c5514e) and its [repo](https://github.com/weijiekoh/zkmm)
 - [exgrasia](https://github.com/nalinbhardwaj/exgrasia): On-chain RPG-style sandbox game
 - [Sudoku](https://github.com/nalinbhardwaj/snarky-sudoku)
+- [zksnark-sudoku](https://github.com/web3-master/zksnark-sudoku)
 - [Isaac: a physics-powered onchain reality on Starknet](https://topology.gg/) and their [blog](https://www.guiltygyoza.xyz/2022/05/topology-isaac-defcon)
 - [Crypto Maze: action-packed MMO](https://www.cryptomaze.app/)
 - [Mental Poker](https://blog.cryptographyengineering.com/2012/04/02/poker-is-hard-especially-for/)  
