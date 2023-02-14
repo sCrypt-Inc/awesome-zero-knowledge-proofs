@@ -89,6 +89,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/zokrates) and [Ethereum](https:/
 - [Zero Knowledge Proofs Workshop - Zokrates Tutorial](http://extropy.foundation/workshops/zkp/zokrates.html)
 - [Zokrates Hello World Walkthrough](https://hackmd.io/@adietrichs/HkH0OduZw)
 - [Practical ZK-SNARKs for Ethereum](https://coders-errand.com/practical-zk-snarks-for-ethereum/)
+- [Elliptic Curve BLS12–381 Support on Bitcoin](https://xiaohuiliu.medium.com/guest-post-elliptic-curve-bls12-381-support-on-bitcoin-bc7bfa605135)
 
 ### Snarkjs: zkSNARK implementation in JavaScript & WASM
 Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://github.com/iden3/snarkjs)
