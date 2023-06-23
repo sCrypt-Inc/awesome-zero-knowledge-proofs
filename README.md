@@ -258,6 +258,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [UniRep (Universal Reputation): a private and non-repudiable reputation system](https://docs.unirep.io/)
 
 ### Other app directories
+- [Bitcoin SV Zero-Knowledge Proof Hackathon finalists](https://bsvhackathon.devpost.com/project-gallery)
 - [zkDAO category from Harmony](https://talk.harmony.one/c/governance/zkdao/84)
 - [Cairo goldmine](https://github.com/beautyisourbusiness/cairo-goldmine#gaming): A comprehensive, annotated list repos in STARKNET
 - [ventali/awesome-zk](https://github.com/ventali/awesome-zk#zk-applications)
