@@ -60,7 +60,7 @@
 
 
 ## Tutorials
-- [zk Battleship interactive course by sCrypt](https://learn.scrypt.io/en/courses/630b1fe6c26857959e13e160)
+- [zk Battleship interactive course by sCrypt](https://academy.scrypt.io)
 - [Create Your First Zero-Knowledge Proof Program on Bitcoin](https://xiaohuiliu.medium.com/create-your-first-zero-knowledge-proof-program-on-bitcoin-ec159cc501f4): use ZoKrates
 - [Intro to Circom and Snarkjs by Iden3](https://iden3-docs.readthedocs.io/en/latest/iden3_repos/circom/TUTORIAL.html)
 - [Getting Started with zkSnarks on ZoKrates](https://blog.gnosis.pm/getting-started-with-zksnarks-zokrates-61e4f8e66bcc)
