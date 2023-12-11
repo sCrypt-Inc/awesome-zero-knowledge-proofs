@@ -264,6 +264,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 
 ### Mixer
 - [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
+- [Otter Cash: A privacy layer for the Solana ecosystem](https://otter.cash/)
 
 ### Rollup
 - [ZK-Rollups on Bitcoin](https://medium.com/coinmonks/zk-rollups-on-bitcoin-ce35869b940d): Way More Scalable than on Ethereum
