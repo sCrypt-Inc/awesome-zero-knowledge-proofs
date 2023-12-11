@@ -217,6 +217,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [Zcash: Privacy-Protecting Digital Currency](https://z.cash) (SNARKs)
 - [Monero: Private Digital Currency](https://www.getmonero.org) (Bulletproofs)
 - [Mina Protocol: A Constant-Size Blockchain](https://minaprotocol.com/) (recursive SNARKs)
+- [Namada: Asset Agnostic, Multichain privacy](https://namada.net/) (SNARKs)
 
 ### Games
 - [Incomplete Information Games on Bitcoin](https://xiaohuiliu.medium.com/incomplete-information-games-on-bitcoin-d79408050882)
