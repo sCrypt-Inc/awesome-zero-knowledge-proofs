@@ -217,6 +217,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [Zcash: Privacy-Protecting Digital Currency](https://z.cash) (SNARKs)
 - [Monero: Private Digital Currency](https://www.getmonero.org) (Bulletproofs)
 - [Mina Protocol: A Constant-Size Blockchain](https://minaprotocol.com/) (recursive SNARKs)
+- [Namada: Asset Agnostic, Multichain privacy](https://namada.net/) (SNARKs)
 
 ### Games
 - [Incomplete Information Games on Bitcoin](https://xiaohuiliu.medium.com/incomplete-information-games-on-bitcoin-d79408050882)
@@ -263,6 +264,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 
 ### Mixer
 - [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
+- [Otter Cash: A privacy layer for the Solana ecosystem](https://otter.cash/)
 
 ### Rollup
 - [ZK-Rollups on Bitcoin](https://medium.com/coinmonks/zk-rollups-on-bitcoin-ce35869b940d): Way More Scalable than on Ethereum
