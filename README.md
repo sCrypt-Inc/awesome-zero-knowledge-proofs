@@ -68,6 +68,7 @@
 - [Zokrates Hello World Walkthrough](https://hackmd.io/@adietrichs/HkH0OduZw)
 - [Zero Knowledge Proofs Workshop - Zokrates Tutorial](http://extropy.foundation/workshops/zkp/zokrates.html)
 - [A Practical Guide To Building Zero Knowledge dApps](https://kndrck.co/posts/practical_guide_build_zk_dapps/): Circom
+- [0xPARC circom and Halo2 learning resources](https://learn.0xparc.org)
 
 
 ## Programming Languages 
@@ -287,6 +288,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [Interep: An on-ramp for reputation](https://mirror.xyz/privacy-scaling-explorations.eth/w7zCHj0xoxIfhoJIxI-ZeYIXwvNatP1t4w0TsqSIBe4): a bridge for moving reputation from centralized into decentralized systems
 - [Aletheia: an anonymous & on-chain reputation based login system for websites](https://talk.harmony.one/t/aletheia-reputation-based-anonymous-login-system/18469)
 - [Continuum: background checker](https://talk.harmony.one/t/continuum-zk-background-checker/19627)
+- [Proof of Passport: proof of official passport](https://github.com/zk-passport/proof-of-passport)
 
 
 ### Attestation
