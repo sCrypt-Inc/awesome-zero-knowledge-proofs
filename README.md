@@ -127,7 +127,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 | proving time       | O(N * log(N))              | O(N * poly-log(N))            | O(N * log(N))   |
 | verifying time      | ~O(1)                      | O(poly-log(N))                | O(N)            |
 | proof size | ~O(1)                      | O(poly-log(N))                | O(log(N))       |
-| Trusted setup required?               | YES :unamused:             | NO :smile:                    | NO :smile:      |
+| Trusted setup required?               | SOMETIMES :neutral_face:             | NO :smile:                    | NO :smile:      |
 
 
 - [🏋️‍♀️ ZK Bench](https://zkbench.dev) - open source, continuous benchmarks for popular zk implementations
