@@ -245,7 +245,6 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [MNIST for recognizing handwritten digits on Bitcoin](https://xiaohuiliu.medium.com/zero-knowledge-private-machine-learning-on-bitcoin-a5bacc6508b1)
 - [zk-MNIST: web frontend app + Jupyter notebook with ML model generation on Ethereum](https://github.com/0xZKML/zk-mnist) and their [demo](https://zkmnist.netlify.app/)
 - [zkCNN: GKR-based zero-knowledge proof protocol for CNN model inference](https://github.com/TAMUCrypto/zkCNN) and their [paper](https://eprint.iacr.org/2021/673.pdf)
-- [Object detection and classification on an image](https://github.com/Makalfo/snapp-darknet)
 
 
 ### Auctions
