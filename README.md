@@ -132,7 +132,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 
 - [🏋️‍♀️ ZK Bench](https://zkbench.dev) - open source, continuous benchmarks for popular zk implementations
 
-| | [**Polylang**](https://polylang.dev) | [**Miden**](https://wiki.polygon.technology/docs/miden/) | [**Risc Zero**](https://risczero.com/) | [**Noir (Barretenberg)**](https://noir-lang.org/) | [**Leo**](https://leo-lang.org/) |
+| | [**Polylang**](https://polylang.dev) | [**Miden**](https://docs.polygon.technology) | [**Risc Zero**](https://risczero.com/) | [**Noir (Barretenberg)**](https://noir-lang.org/) | [**Leo**](https://leo-lang.org/) |
 |---|---|---|---|---|---|
 | **Frontend (Language)** | Typescript-like | MASM (Assembly) | Rust, C, C++ | Rust-like | Leo (DSL) |
 | **ZK** | STARK | STARK / zkVM | STARK / zkVM | SNARK | SNARK |
