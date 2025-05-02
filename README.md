@@ -80,7 +80,7 @@
 | ZoKrates     | Python subset   | https://github.com/Zokrates/ZoKrates | https://zokrates.github.io |
 | Circom |  HDL   | https://github.com/iden3/circom | https://docs.circom.io |
 | SnarkyJS | Typescript DSL | https://github.com/o1-labs/snarkyjs | https://docs.minaprotocol.com/en/zkapps/snarkyjs-reference | 
-| Cairo     | for STARK  | https://github.com/starkware-libs/cairo-lang | https://cairo-lang.org/docs/ | 
+| Cairo     | for STARK  | https://github.com/starkware-libs/cairo-lang | https://book.cairo-lang.org/ | 
 | Leo      | Functional, statically-typed  | https://github.com/AleoHQ/leo | https://developer.aleo.org/developer/language/layout/ |
 
 
