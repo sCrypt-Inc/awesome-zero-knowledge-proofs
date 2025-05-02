@@ -260,7 +260,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 
 ### Social
 - [Zkitter: Anonymous Social Network](https://hackmd.io/@catsnackattack/Bkov8Jz-s#zkitterzkchat)
-- [ETHdos Numbers](https://ethdos.xyz): measure your degrees of seperation from Vitalik using recursive SNARKs
+- [ETHdos Numbers](https://ethdos.xyz): measure your degrees of separation from Vitalik using recursive SNARKs
 
 ### Mixer
 - [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
@@ -284,7 +284,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 ### Identity
 - ZK Identity: Why and How by 0xPARC [Part 1](https://0xparc.org/blog/zk-id-1) and [Part 2](https://0xparc.org/blog/zk-id-2)
 - [ZK-Identity (Semaphore): Private Identity Claim System by minting a NFT](https://talk.harmony.one/t/zk-identity-semaphore-private-identity-claim-system-by-minting-a-nft/18789)
-- [Interep: An on-ramp for reputation](https://mirror.xyz/privacy-scaling-explorations.eth/w7zCHj0xoxIfhoJIxI-ZeYIXwvNatP1t4w0TsqSIBe4): a bridge for moving reputation from centralized into decentralized systems
+- [Interop: An on-ramp for reputation](https://mirror.xyz/privacy-scaling-explorations.eth/w7zCHj0xoxIfhoJIxI-ZeYIXwvNatP1t4w0TsqSIBe4): a bridge for moving reputation from centralized into decentralized systems
 - [Aletheia: an anonymous & on-chain reputation based login system for websites](https://talk.harmony.one/t/aletheia-reputation-based-anonymous-login-system/18469)
 - [Continuum: background checker](https://talk.harmony.one/t/continuum-zk-background-checker/19627)
 - [Proof of Passport: proof of official passport](https://github.com/zk-passport/proof-of-passport)
