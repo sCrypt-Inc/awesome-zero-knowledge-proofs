@@ -304,7 +304,6 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [ventali/awesome-zk](https://github.com/ventali/awesome-zk#zk-applications)
 - [Six Moonshot ZK Applications](https://gubsheep.substack.com/p/six-moonshot-zk-applications)
 - [Final Projects by ZKU Graduates](https://zku.one/final-project-submissions)
-- [zkApps on Mina](https://zkappsformina.com/)
 - [10 zkApps Use Cases on Mina Protocol](https://blog.o1labs.org/10-snapps-use-cases-on-mina-83e646010e52)
 
 ---
