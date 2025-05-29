@@ -21,7 +21,7 @@
 - [Programming Languages](#programming-languages)
 - [Tools](#tools)
   - [ZoKrates: a toolbox for zkSNARKs](#zokrates-a-toolbox-for-zksnarks)
-  - [Snarkjs: zkSNARK implementation in JavaScript \& WASM](#snarkjs-zksnark-implementation-in-javascript--wasm)
+  - [Snarkjs: zkSNARK implementation in JavaScript & WASM](#snarkjs-zksnark-implementation-in-javascript--wasm)
 - [Books](#books)
 - [Communities](#communities)
 - [Other Curated Lists](#other-curated-lists)
