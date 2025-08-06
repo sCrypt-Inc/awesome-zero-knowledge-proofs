@@ -81,7 +81,7 @@
 | Circom |  HDL   | https://github.com/iden3/circom | https://docs.circom.io |
 | SnarkyJS | Typescript DSL | https://github.com/o1-labs/snarkyjs | https://docs.minaprotocol.com/en/zkapps/snarkyjs-reference | 
 | Cairo     | for STARK  | https://github.com/starkware-libs/cairo-lang | https://book.cairo-lang.org/ | 
-| Leo      | Functional, statically-typed  | https://github.com/AleoHQ/leo | https://developer.aleo.org/developer/language/layout/ |
+| Leo      | Functional, statically-typed  | https://github.com/AleoHQ/leo | https://developer.aleo.org/guides/aleo/language/ |
 
 
 ## Tools
