@@ -296,6 +296,7 @@ Both on [Bitcoin](https://github.com/sCrypt-Inc/snarkjs) and [Ethereum](https://
 - [Using ZK Proofs to Fight Disinformation](https://medium.com/@boneh/using-zk-proofs-to-fight-disinformation-17e7d57fe52f): proofs of permissible photo edits
 - [zkDocs: Document Management](https://a16zcrypto.com/zkdocs-zero-knowledge-information-sharing/): [Github repo](https://github.com/a16z/zkdocs)
 - [UniRep (Universal Reputation): a private and non-repudiable reputation system](https://docs.unirep.io/)
+- [zkDatabase](https://www.zkdatabase.org/): Verifiable database by Orochi Network that generates a Zero-Knowledge Proof for every operation, so anyone can check each data change without seeing the raw data. [repo](https://github.com/orochi-network/zkdatabase)
 
 ### Other app directories
 - [Bitcoin SV Zero-Knowledge Proof Hackathon finalists](https://bsvhackathon.devpost.com/project-gallery)
